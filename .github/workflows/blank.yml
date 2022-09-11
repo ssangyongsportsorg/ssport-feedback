@@ -8,6 +8,6 @@ jobs:
       - uses: EddieHubCommunity/gh-action-community/src/welcome@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          issue-message: '<h1>It''s great having you contribute to this project</h1> Welcome to the community :nerd_face: :rocket:'
-          pr-message: '<h1>It''s great having you contribute to this project</h1> Welcome to the community :nerd_face:'
-          footer: 'If you would like to continue contributing to open source and would like to do it with an awesome inclusive community, you should join our <a href="http://discord.eddiehub.org">Discord</a> chat and our <a href="http://github.eddiehub.org">GitHub Organisation</a> - we help and encourage each other to contribute to open source little and often 🤓 . Any questions let us know.'
+          issue-message: '<h1>感謝你提交反饋</h1> 感謝你提交反饋'
+          pr-message: '<h1>''</h1>  ::'
+          footer: '如果確認發生問題會提交至狀態頁，在此感謝你改進雙龍體育'
