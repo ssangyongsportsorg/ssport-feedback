@@ -15,3 +15,4 @@ jobs:
           issue-label: needs-reply
           minutes-before-close: 1
           close-message: 因沒回覆而自動關閉
+          issue-label : needs-reply
