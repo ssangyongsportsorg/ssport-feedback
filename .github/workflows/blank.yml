@@ -1,5 +1,5 @@
 name: Automerge PR
-on: [pull_request, issues, discussions]
+on: [pull_request, issues]
 jobs:
   welcome:
     runs-on: ubuntu-latest
